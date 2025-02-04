@@ -1,4 +1,5 @@
-baseURL: https://example.org/
+baseURL: "https://jake-t-dev.github.io/"
+title: "Jake Turner"
 languageCode: en-us
-title: My New Hugo Site
+paginate: 5
 theme: 'PaperMod'
