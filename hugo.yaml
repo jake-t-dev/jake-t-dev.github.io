@@ -3,9 +3,12 @@ title: "Jake Turner"
 languageCode: en-us
 paginate.pagerSize: 5
 theme: 'PaperMod'
-
 enableEmoji: true
-
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON 
 languages:
   en:
     languageName: "English"
@@ -20,13 +23,16 @@ languages:
           url: about
           weight: 5
         - name: Projects
-          url: projects
+          url: projects/
           weight: 5
         - name: Search
           url: search/
           weight: 10
         - name: Contact
           url: contact/
+          weight: 10
+        - name: "Topics"
+          url: tags/
           weight: 10
 params:
   defaultTheme: dark
