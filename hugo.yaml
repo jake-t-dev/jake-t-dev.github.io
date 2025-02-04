@@ -1,5 +1,43 @@
 baseURL: "https://jake-t-dev.github.io/"
 title: "Jake Turner"
 languageCode: en-us
-paginate: 5
+paginate.pagerSize: 5
 theme: 'PaperMod'
+
+enableEmoji: true
+
+languages:
+  en:
+    languageName: "English"
+    weight: 1
+    taxonomies:
+      category: categories
+      tag: tags
+      series: series
+    menu:
+      main:
+        - name: About
+          url: about
+          weight: 5
+        - name: Projects
+          url: projects
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 10
+        - name: Contact
+          url: contact/
+          weight: 10
+params:
+  defaultTheme: dark
+  profileMode:
+        enabled: true
+        title: jake-t-dev
+        imageUrl: "https://avatars.githubusercontent.com/u/181106568?v=4"
+        imageTitle: ProfileMode image
+        subtitle: "Software Engineer"
+        buttons:
+          - name: Projects
+            url: projects
+          - name: LinkedIn
+            url: https://www.linkedin.com/in/jake-turner-045b6b266/
