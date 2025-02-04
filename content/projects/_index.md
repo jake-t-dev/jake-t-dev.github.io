@@ -1,5 +1,5 @@
 ---
 title: "Projects"
-layout: "archives" #"list"
+layout: "list" #"list"
 summary: "projects"
 ---

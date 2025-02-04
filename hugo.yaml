@@ -1,7 +1,8 @@
 baseURL: "https://jake-t-dev.github.io/"
 title: "Jake Turner"
 languageCode: en-us
-paginate.pagerSize: 5
+pagination:
+  pagerSize: 10
 theme: 'PaperMod'
 enableEmoji: true
 outputs:
@@ -23,7 +24,7 @@ languages:
           url: about
           weight: 5
         - name: Projects
-          url: projects/
+          url: projects
           weight: 5
         - name: Search
           url: search/

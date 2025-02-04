@@ -1,6 +1,5 @@
 ---
-title: "Search"
-layout: "search"
-summary: "search"
-placeholder: "Search site content"
+title: "Contact"
+layout: "terms" 
+summary: "contact"
 ---
