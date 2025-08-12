@@ -42,7 +42,7 @@ params:
         title: jake-t-dev
         imageUrl: "https://avatars.githubusercontent.com/u/181106568?v=4"
         imageTitle: ProfileMode image
-        subtitle: "Software Engineer"
+        subtitle: "Full-Stack Golang/Typescript Software Engineer"
         buttons:
           - name: Projects
             url: projects
