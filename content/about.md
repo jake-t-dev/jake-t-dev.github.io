@@ -1,14 +1,15 @@
 ---
 title: "About"
-layout: "terms" 
-summary: "about"
+summary: "About Me"
 ---
 
 # About Me
 
-## Academic Background
+## Certifications
 
-## Work Experience
+### ☁️ AWS Certified Cloud Practitioner
+
+### 🔒 ISC2 Certified in Cybersecurity
 
 ## Tech Stack
 
